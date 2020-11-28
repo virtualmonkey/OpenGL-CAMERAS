@@ -15,7 +15,6 @@
 2. Vertex shader [1]
 3. All Colors shader [2]
 4. Termic vision shader [3]
-5. All colors vision shader + expansion shader [4]
-  5.1 Press [E] to expand and [q] to shrink
+5. All colors vision shader + expansion shader [4] (Press [E] to expand and [Q] to shrink)
 
 Theme playing on the background: Mine Craft theme.
